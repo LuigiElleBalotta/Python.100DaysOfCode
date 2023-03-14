@@ -50,7 +50,7 @@ tom_handler = MovementHandler(tom, screen)
 gerry_handler = MovementHandler(gerry, screen)
 salva_handler = MovementHandler(salva, screen)
 
-max_distance = 500
+max_distance = 230
 winner = ""
 
 while winner == "":
